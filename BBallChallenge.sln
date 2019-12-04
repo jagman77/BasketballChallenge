@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BBallChallenge", "BBallChallenge\BBallChallenge.csproj", "{718CD9E5-A391-4A6D-AB62-B329FFF2AF73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{718CD9E5-A391-4A6D-AB62-B329FFF2AF73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{718CD9E5-A391-4A6D-AB62-B329FFF2AF73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{718CD9E5-A391-4A6D-AB62-B329FFF2AF73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{718CD9E5-A391-4A6D-AB62-B329FFF2AF73}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF347806-27B6-4BEA-A7A2-2948DF822989}
+	EndGlobalSection
+EndGlobal
